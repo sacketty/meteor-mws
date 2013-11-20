@@ -1,0 +1,11 @@
+{
+  "name": "mws",
+  "description": "A Simple port of Amazon MWS from mws-js npm module",
+  "homepage": "https://github.com/sacketty/meteor-mws",
+  "author": "BrentSys mws project",
+  "version": "0.1.0",
+  "git": "https://github.com/sacketty/meteor-mws.git",
+  "packages": {
+  	"xml2js": {}
+  }
+}
